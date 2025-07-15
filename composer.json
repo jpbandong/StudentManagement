@@ -1,0 +1,16 @@
+{
+    "name": "bandong/student-management",
+    "description": "Basic Student Management",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bandong\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Paul"
+        }
+    ],
+    "require": {}
+}
